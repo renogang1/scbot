@@ -1,5 +1,5 @@
 # scbot 
-бот insteresting in pukat 
+бот interested in pukat
 
 krutoi nodejs script sdelal FourCinnamon0 agromnoe spasibo pupsik
 
