@@ -125,7 +125,7 @@ async function start() {
 			console.log(...args)
 		}
 		done = function () {
-			fs.writeFileSync("D:/sctools/tools/exportnames/export_names.txt",toWrite)
+			fs.writeFileSync("export_names.txt",toWrite)
 		}
 	}else{
 		clog = function (...args) {
